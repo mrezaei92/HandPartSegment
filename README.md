@@ -1,5 +1,3 @@
-# HandPartSegment
-
 # **Weakly-supervised hand part segmentation from depth images**
 This repository contains the code for method introduced in:  
 
