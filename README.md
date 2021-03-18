@@ -14,4 +14,4 @@ This repository contains the code for method introduced in:
 To run the code you can, e.g., install the following requirements:
 
  * python 3.
- * [PyTorch](http://pytorch.org/) (tested with version 0.4.1 and 1.0.1)
+ * [PyTorch](http://pytorch.org/)
