@@ -1,3 +1,5 @@
+# downloaded from the repository: https://github.com/hassony2/manopth , and modified by me
+
 import os
 
 import numpy as np
