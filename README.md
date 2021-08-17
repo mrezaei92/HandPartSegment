@@ -1,5 +1,5 @@
 # **Weakly-supervised hand part segmentation from depth images**
-This repository contains the code for method introduced in:  
+This repository contains the code for the method introduced in:  
 
 [**Weakly-supervised hand part segmentation from depth images**](https://dl.acm.org/doi/10.1145/3453892.3453902)
 
